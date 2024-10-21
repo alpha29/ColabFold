@@ -42,7 +42,7 @@ importlib-metadata = "^4.8.2"
 # The latest version conflicts with tensorflow over typing-extensions
 black = "^23.1.0"
 jupyter = "^1.0.0"
-pytest = "^6.2.5"
+pytest = "^8.3.3"
 
 [tool.poetry.extras]
 alphafold = ["alphafold-colabfold", "jax"]
